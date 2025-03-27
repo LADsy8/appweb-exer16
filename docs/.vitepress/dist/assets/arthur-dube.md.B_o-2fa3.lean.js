@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.Ba0MnFCs.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"arthur-dube.md","filePath":"arthur-dube.md"}'),a={name:"arthur-dube.md"};function o(s,c,n,d,u,p){return r(),t("div")}const m=e(a,[["render",o]]);export{i as __pageData,m as default};
